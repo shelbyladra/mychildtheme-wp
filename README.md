@@ -1,0 +1,2 @@
+# mychildtheme-wp
+child theme
